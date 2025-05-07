@@ -18,7 +18,7 @@ class ContentRating extends Component {
   render() {
     return (
       <div className="content-rating">
-        <p>---Add text here---</p>
+        <p>---Add text here blam blam---</p>
         <div className="rating-buttons">
           <button className="like-button" onClick={this.state.handleLike}>
             {this.state.likes}

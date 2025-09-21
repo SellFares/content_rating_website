@@ -27,8 +27,14 @@ class ContentRating extends Component {
      <>
      <div className="content-rating">
         <p>
-         Lorem ipsum shit dolor sit amet consectetur adipisicing elit. Sint delectus eos ad magnam debitis quaerat et illum magni, laudantium harum odio assumenda
-         dicta consequatur fugit voluptates tempora molestiae rerum quibusdam?
+       Lorem ipsum shit dolor sit amet consectetur adipisicing elit. Sint delectus eos ad magnam debitis quaerat et illum magni, laudantium harum odio assumenda
+       dicta consequatur fugit voluptates tempora molestiae rerum quibusdam?
+       Lorem ipsum shit dolor sit amet consectetur adipisicing elit. Sint delectus eos ad magnam debitis quaerat et illum magni, laudantium harum odio assumenda
+       dicta consequatur fugit voluptates tempora molestiae rerum quibusdam?
+       Lorem ipsum shit dolor sit amet consectetur adipisicing elit. Sint delectus eos ad magnam debitis quaerat et illum magni, laudantium harum odio assumenda
+       dicta consequatur fugit voluptates tempora molestiae rerum quibusdam?
+       Lorem ipsum shit dolor sit amet consectetur adipisicing elit. Sint delectus eos ad magnam debitis quaerat et illum magni, laudantium harum odio assumenda
+       dicta consequatur fugit voluptates tempora molestiae rerum quibusdam?
         </p>
         <div className="rating-buttons"> 
           <button className="like-button" onClick={this.handleLike}>

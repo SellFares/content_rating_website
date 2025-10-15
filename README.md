@@ -6,6 +6,8 @@ git clone <link_ta3_repository>
 # haka yetsablik el project , tekteb bech ihel dossier eli fih el lkhedma
 cd content_rating_website
 
-# w mba3d tekteb hethom zouz bech itruni el khedma 3al pc 
+# w mba3d tekteb hethom zouz bech itsob el npm 
 npm install
+
+# w hethi bech ithel localhost w ethel el site
 npm run preview
